@@ -1,6 +1,6 @@
 <?php
 
-    //INSERTION DANS LA BASE DE DONNEES
+    //INSERTION DANS LA TABLE DE LA BASE DE DONNEES
     FUNCTION insert(){
         require("../../../databse/Connexion.php");
 
